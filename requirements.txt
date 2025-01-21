@@ -1,0 +1,5 @@
+aiogram
+aiosqlite
+apscheduler
+requests
+urllib3
